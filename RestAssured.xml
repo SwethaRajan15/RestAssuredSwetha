@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "RestAssurance">
+
+<test name = "RAEXample">
+<classes>
+<class name = "org.restassuredtestng.ExAlbum"/>
+<class name = "org.restassuredtestng.ExPhotos"/>
+<class name = "org.restassuredtestng.ExPost"/> 
+<class name = "org.restassuredtestng.PathQueryPara"/>
+ </classes>
+ </test>
+
+ 
+ 
+ </suite>
